@@ -1,5 +1,5 @@
 let list = []
-namespace Big_Maps {
+namespace dot_maps {
     //% block=Array1
     export function Array1(): number[] {
         return list = [

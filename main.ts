@@ -1,6 +1,6 @@
 let list = []
 namespace dot_maps {
-    //% block=Array1
+    //% block=Hard Mode
     export function Array1(): number[] {
         return list = [
             0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 3, 0, 1, 1, 3, 3, 3, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 3, 1, 3, 0, 0, 0, 0, 0, 2, 3, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 3, 3, 5, 0, 0, 1, 0, 0, 0, 0, 0, 
